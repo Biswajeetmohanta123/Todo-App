@@ -90,7 +90,7 @@ Overall, a todo application serves as a digital task manager, offering a structu
 
 ## 📝 Licence
 ---
-Copywrite © 2019 [Mukesh]().
+Copywrite © 2019 [Biswajeet]().
 
 This project is [Geekster]() Licensed.
  
